@@ -1,0 +1,203 @@
+spk2: Oui bonjour Celeste.
+spk0: Bonjour Merlin. Comment vas-tu ?
+spk2: Très bien et toi ?
+spk0: Super. Écoute, ça va super. Je suis ravie de commencer mon après-midi avec toi. Je vois que la caméra n'a pas été réparée. Je sais pas si t'es tout seul ou t'es avec...
+spk2: Non, là je t'avoue que avec le gros brume que j'ai...
+spk0: Ah oui ! Ok, pas de problème. Non, mais je ne savais pas si du coup, Arthur et l'autre Merlin se connectaient derrière toi ou s'il y avait d'autres personnes qui arrivaient.
+spk2: Non, alors Merlin, je ne sais pas, mais Arthur, ben voilà, il est là, parfait.
+spk0: Ben voilà. Bonjour Arthur, enchanté. Salut Arthur.
+spk1: Je suis là, bonjour Celeste.
+spk2: Ah c'est Merlin, parfait. Donc, je suis juste contente de reposer le contexte par rapport à notre échange de la dernière fois et puis l'objectif de cette petite call tous ensemble.
+spk0: Oui, effectivement, l'idée c'était, si ça vous va, l'agenda du coup juste que je vous propose effectivement, c'est peut-être juste de faire un petit tour de table avant pour connaître un peu du coup le niveau de connaissance de Merlin et
+spk2: La caméra, je vais voir si elle fonctionne.
+spk0: OK, génial, trop cool. OK, ça va super. C'est sympa. Merci. Comme ça, plus qu'en plus, on est trois. Comme ça, je suis sûre. Si vous avez des questions, peut être aussi d'avoir le visuel. Juste avant du coup de
+spk2: Et bien, on a radé un petit peu, donc c'était pour améliorer les performances commerciales, notamment grâce à l'IA. En gros, c'est par rapport à un script, voir à quel degré de similitude on est par rapport au script. Et
+spk1: Ouais, moi, je m'occupe de toute la partie opérationnelle. Je suis associé à Merlin qui est ici dans la call et connaissance de Modjo au même moment avec Merlin, puisque c'est on était dans la même réunion le jour où
+spk0: OK, génial. Et du coup, justement, je crois que vous avez passé pas mal de temps ces dernières semaines ou ces derniers jours chez Furnitures. Est ce que vous avez pu échanger avec SquareChair? Enfin, du coup, je crois que
+spk1: Non, on n'a pas parlé avec Lancelot spécialement sur ça, je t'avoue.
+spk0: OK, non, mais pas de problème. C'était par curiosité. OK, super clair.
+spk1: Pour le savoir, on se gardera avec lui la semaine prochaine.
+spk0: Écoutez, bah écoutez, avec plaisir, effectivement, ces équipes l'utilisent. Depuis, c'était mon premier client parce que moi, je suis à eux depuis trois mois maintenant et du coup, qui de mieux qu'un utilisateur Modjo pourra vous partager des insights. Donc,
+spk2: Non, tu as très bien résumé.
+spk0: OK, génial. Et qu'est ce que je veux dire? Oui, non, dernier dernier aspect. Du coup, on avait à parler un tout petit peu moins de ça la dernière fois, Merlin, j'étais curieuse de savoir aujourd'hui concrètement qu'est ce que
+spk2: Pas grand chose. Ce n'est pas le problème. Donc, sur la partie CSM, on met en place depuis un mois, un mois et demi des tests de pitch juste sur la partie pitch démo fonctionnel. Donc, on faut qu'on garde
+spk1: On fait principalement des workshops. OK. Des workshops en règle générale, c'est une fois par mois.
+spk0: Ça se matérialise comment? Concrètement, ces workshops, c'est quoi l'objectif?
+spk1: C'est en gros, moi, je demande, donc il y a des ateliers à Ringover qui nous permettent de les écouter.
+spk0: Ouais.
+spk1: Workshop. On travaille comme ça, notamment beaucoup. Le traitement des objections. Voilà, c'est aujourd'hui, c'est la méthode où qui est qui est qui est faite côté sales. Donc, c'est une fois par mois. Sachant que ça, effectivement, ça c'est là
+spk0: Et du coup, juste petite question. Que ça soit sur les sales qui ont déjà eu leur phase de ramp-up ou les junior aujourd'hui, donc, effectivement, ils testent le pitch, ils répondent à des objections. Concrètement, là, tu fais comment
+spk1: Nous, en gros, on a un suivi hebdo. Le lundi, on a une réunion d'équipe. Le vendredi, on a une réunion individuelle. En réunion individuelle, ils ont pris l'habitude de venir avec leur, entre guillemets, avec leurs problématiques, leurs objections.
+spk0: Tu vas aller chercher combien en taux de conversion aujourd'hui ? Pardon ? Tu vas aller chercher combien en taux de conversion aujourd'hui ? Enfin, vous êtes à combien en taux de conversion et tu vas aller chercher combien dans
+spk1: En gros, aujourd'hui, on veut aller... On a nous un gros top service qui est la customize, la marque blanche chez nous. Si tu regardes un petit peu...
+spk0: Ici, j'ai regardé votre site à 139 euros.
+spk1: Voilà, notre objectif, c'est d'être tous les mois au moins 10. Donc, ça, c'est vraiment notre objectif d'être à 10.
+spk0: Et aujourd'hui, vous êtes à combien ?
+spk1: Aujourd'hui, on tourne entre 6 et 8 en gros. Donc, on est un cran en dessous. Ce mois-ci, on va aller faire les 10 parce qu'on sort d'un salon.
+spk0: En termes de chiffre d'affaires ou de MRR ou ARR à aller chercher sur l'année, tu as une idée de ce que ça représenterait d'augmenter justement cette performance qui est aujourd'hui pas forcément stable de moins en moins.
+spk1: C'est-à-dire le fait d'atteindre l'objectif, qu'est-ce que ça apporte ton MRR en plus ?
+spk0: Aujourd'hui, c'est quoi ton objectif ? C'est quoi le manque à gagner en termes d'ARR que tu as en visibilité le fait de ne pas être à 10 aujourd'hui ?
+spk1: Tu peux parler de son MRR.
+spk0: MRR, oui.
+spk1: C'est un jeu galère quand il met son niveau. Là, c'est simple. On a fait 7 marques blanches en septembre. L'objectif, c'est 10. C'est à peu près 500 euros par mois la marque blanche. C'est 1500 euros mensuels qui tournent
+spk0: Et du coup, ça c'est par sales ? Pour l'équipe ? Au global ?
+spk1: Le sales doit faire 3 marques blanches par mois. Si on voudrait qu'ils soient au niveau, il faut qu'ils fassent 3 marques blanches par mois. Normalement, s'ils en font 3 par mois, sachant que moi également j'en fais aussi, ça
+spk2: Attention, ça c'est nos chiffres aujourd'hui. Les chiffres de TAM4, c'est pas ce que ça donne. On leur fait le calcul avec Samuel pas plus tard que ce matin.
+spk0: Ça serait plutôt combien du coup ?
+spk2: Là, on serait plutôt à nombre de marques blanches par personne par mois, 5.
+spk1: Par mois, c'est pas possible. T'es à 15 marques blanches.
+spk2: Si on veut suivre ce qu'on est censé progresser, comment on est censé progresser, en tout cas sur 2024, on devrait être à terme à ce nombre-là. Dans tous les cas, on a un gros gap entre haut et bas.
+spk0: Il y a un gros gap. On parle juste de marques blanches. Les autres sont complètement dépriorisés ? Est-ce que vos sales performent plus sur les autres ?
+spk1: Là-dessus, Celeste, c'est compliqué parce que tu poses des questions auxquelles on n'a pas de réponse.
+spk0: Ok, pas de problème.
+spk1: La question est pertinente, mais tu poses des questions auxquelles on n'a pas de réponse.
+spk0: Ok, c'est pas grave.
+spk1: Le problème, c'est que le sales contribue à la vente de licence les deux autres, sauf qu'on ne sait pas le traquer. On ne sait pas pourquoi nos clients, quand le sales leur donne un code, ils ne l'utilisent pas
+spk0: Traquer dans un call, tel ou tel offre, ça vous permettrait d'avoir plus de visibilité sur ce qui pourrait être poussé par vos sales ?
+spk1: Oui, identifier ce qui a été vendu dans le call et être capable de dire que c'était Jacky qui a vendu ça. Oui, ça peut être intéressant.
+spk0: Ok, clairement, c'est un truc que je n'avais pas en tête, donc je vous montrerai. J'ai une dernière question et après, je vous promets, on switch sur la démo, mais on n'a pas trop parlé du coup de la partie
+spk2: Je pense qu'on peut rester sur le périmètre size.
+spk0: Size, ok.
+spk2: Très clair. Le démo, effectivement, peut l'améliorer, mais la personne est déjà sur le produit et c'est des informations qu'on vient lui donner. Donc oui, il y a de l'amélioration à faire, mais là pour la démo, je pense qu'on
+spk0: Ok, donc, focussons dans ce cas-là sur les sales. On n'avait pas sur la partie compte rendu, prise de notes. Tu me disais, Merlin, pendant le dernier échange que
+spk1: C'est dans les deux sens. Aujourd'hui, on n'est pas bon dans les deux sens, dans le sens où le sales n'a pas tout le temps pris les notes et souvent le CS ne prend pas les notes du tout en
+spk0: Ok, je mets les pieds là où il ne faut pas, mais l'idée, c'est de faire en sorte que ça ne se passe plus.
+spk1: C'est clair que les notes, c'est quelque chose qui est très important.
+spk0: Ok. Du coup, aujourd'hui, vous savez pourquoi ce n'est pas fait ?
+spk1: Pourquoi ce n'est pas fait ? Parce qu'en fait, le CS, il a du mal à le faire parce qu'il fait sa démo en live avec son ordinateur. Et du coup, pour faire son CR, il faut qu'il s'arrête 5
+spk0: Et côté sales sur la partie call ?
+spk1: Alors côté sales, j'allais dire chez les sales, c'est peut-être l'endroit où c'est peut-être le plus fait parce que déjà, il est libre même. Donc en fait, un sales pour lui-même, il va prendre des notes.
+spk0: Ok, écoutez, très clair, dans ce cas-là, on regardera bien cet aspect aide à la prise de notes qui aidera du coup les deux équipes. Est-ce que vous avez des choses à rajouter ou est-ce qu'on peut passer du coup
+spk2: Non, c'est complet.
+spk0: Ok, génial. Merci en tout cas pour ce complément d'information qui va très certainement enrichir cette démo. Je vous partage dès maintenant mon écran, est-ce que vous le voyez bien ?
+spk2: Oui.
+spk0: Génial. Du coup, je compte sur vous pour vraiment m'arrêter si vous avez des questions et de me dire si jamais vous voulez passer parce que ça ne vous intéresse pas particulièrement. Normalement, j'ai bien préparé, donc ça ne devrait
+spk2: Excusez-moi, Celeste, les CS font beaucoup de Google Meet ?
+spk1: Oui. C'est géré ?
+spk0: Du coup, Google Meet, exactement, c'est bien pris en compte. Toutes les vidéos Google Meet vont remonter automatiquement aujourd'hui dans Modjo. On off ? On off, non. On off aujourd'hui, on n'est pas intégré à on off. En revanche, on
+spk2: Ce n'est pas grave, on off, normalement, c'est fait que pour beaucoup, pour des réceptions de SMS, pour débloquer des comptes, etc. Donc, ce n'est pas problématique.
+spk0: C'est plus de l'écrit du coup plutôt que de l'audio finalement ?
+spk2: C'est plus pour l'opérationnel que de l'échange pur avec du client.
+spk0: En tout cas, effectivement, à date, on n'a pas encore d'intégration avec on off. Du coup, à date, on ne récupérerait pas ces échanges. OK. Du coup, l'ADN de Modjo c'est d'être le plus collaboratif possible. Et du coup, que
+spk2: Oui, oui, oui.
+spk0: Ok, j'ai une idée. Alors, du coup, ce que je vous propose, c'est qu'on va partir sur le premier pilier qui est vraiment le pilier performance. Donc on va prendre du coup la performance commerciale. Aujourd'hui, vous avez des vrais
+spk1: On va avoir surtout de l'information de ce qui se passe dans les calls.
+spk0: Ok, et ce qui va se passer, c'est que par exemple, je vais prendre du coup des échanges qui ont eu lieu, par exemple, sur le quarter. Donc ce que vous pouvez voir déjà, c'est qu'il y a des tags
+spk2: Comment ces tags sont mis en fait ?
+spk0: Alors typiquement, là, c'est des appels, donc c'est des appels de prospection. Donc là, vous pouvez voir que c'est du cold call. Autrement, c'est l'intelligence artificielle.
+spk2: Comment Modjo sait que c'est du cold call ?
+spk0: Parce que c'est lié du coup à votre ringover ou à votre aircall ou à votre outil de VOIP. Ça remonte automatiquement ce tag.
+spk2: D'accord, donc c'est sur ringover et il faut mettre la bonne information.
+spk1: Quand tu raccroches… Ce qui a été dit.
+spk0: Il y a deux choses en fait. Par exemple, il y a le nom du meeting. Vous faites une intro, l'intelligence artificielle va venir identifier la typologie de rendez-vous.
+spk1: Donc là, par exemple, on a accès… Par rapport à l'intro qui a été faite, si tu présentes le produit, c'est que c'est un cold call froid. Si tu attaques directement sur une… Comme on s'est dit la dernière fois…
+spk2: Modjo sait à tous les coups classifier ses échanges.
+spk0: Il sait classifier ses échanges. Alors là, qu'est-ce qui se passe ? Parce que j'ai mis tous les appels. Ça va pas aller. Attendez. Il sait classifier ses échanges. Ces échanges, pardon. Ça m'épette en fonction de la typologie des
+spk2: Oui.
+spk0: Super. Alors maintenant, je vais reprendre aussi un call de discovery. Et là, l'idée, du coup, vous voulez suivre finalement la manière dont est pitché aujourd'hui, dont est pitché Modjo en
+spk1: Qu'est-ce que vous apportez de plus que Ringover ?
+spk0: Alors Ringover, déjà, il faut que tu sélectionnes tes appels un peu à l'aveugle, déjà. Deuxièmement, et tu ne peux pas venir focusser sur un aspect particulier de l'échange, enfin que ça soit une démo, du coup Ringover, ce
+spk1: Ouais, OK. Sauf que…, juste le moment de l'objection ou le moment OK dans le sens où… J'ai envie de dire tout
+spk0: Tout le moment de l'appel est important ?
+spk1: On a eu le chien de nos colocs qui est venu s'exploser contre la porte.
+spk0: D'accord, pas de problème.
+spk1: Pour montrer le pauvre Padi. J'allais dire, ouais, tout le moment de l'appel amène en partie à cette situation. L'appel en lui-même en complet est
+spk0: Oui, effectivement. Du coup, sur cette partie compte rendu, je vais te le montrer. Mais du coup, je vais peut-être prendre un exemple plus parlant sur un cold call. Là, ce que je voulais te montrer, c'était aujourd'hui, comment font
+spk2: Les objections, comment on va parler d'algorithme, est-ce qu'à 98%, toutes les objections sont bien remontées, sont bien détectées ?
+spk0: En fait, c'est paramétré lors de la mise en place de Modjo. Par exemple, si tu veux traquer tous les sujets où ont été apportés par exemple des concurrents, grâce au paramétrage, on va pouvoir créer un… On appelle ça
+spk2: Ça apporte de la précision sur ton appel et pour le retravailler derrière. Ça, c'est sûr. La question que je te poserai à la fin de la réunion, c'est aujourd'hui, comme tu connais notre contexte, est
+spk0: Aujourd'hui, ce que vous me disiez, c'est que vous aviez besoin justement de comprendre un peu les pitches, les réponses à des objections, tester, challenger. La l'idée de cet outil, c'est justement vous donner les moyens de réécouter, challenger, avoir
+spk1: Après, je pense que aujourd'hui, moi, ce qui m'interpelle avec Modjo c'est le temps que ça doit prendre un manager de
+spk0: Ok, alors du coup, je fais mon mea culpa parce que je pense que je n'ai pas été assez pertinente dans ma présentation. Première chose, c'est que déjà, c'est pas que pour challenger les calls, mais du coup, vous avez un
+spk1: C'est juste, je rebondirais sur la question et je pense que, alors je sais pas, on ne s'est pas parlé, mais je pense que, en fait, dans la question, c'est est-ce que nous, on n'est pas trop petit
+spk0: Ok, merci pour ces infos. Toute l'idée, c'est d'un Modjo c'est de faire gagner du temps. Donc effectivement, si tu ne l'ai pas présenté de la manière à aujourd'hui, ça te permet de faire gagner du temps. Je comprends que
+spk2: Moi en tout cas, je comprends effectivement l'utilité d'un outil avec justement cette analyse qui permet de bien découper. Et je pense que c'est dans ta deuxième partie de présentation. Qu'est ce qui peut ou Modjo peut nous challenger?
+spk0: Est ce que tu peux préciser cette question?
+spk2: Alors c'est peut être moi qui n'avais pas compris tout le permettre de l'outil. Là, le fait d'analyser les séquences et de dire ce que tu as montré tout à l'heure, effectivement, c'est super pertinent. Et à la fois pour
+spk1: Non, non, je te confirme que nous, j'avais compris comme toi, dans le sens où on pensait que l'IA, on allait rentrer un pitch, un sorte de script de base, un template. Et l'IA, elle devait dire si le
+spk2: Respecté sans forcément avoir cette notion là, mais nous challenger dessus par rapport à l'IA, à toutes les possibilités de l'IA pour améliorer notre pitch en nous faisant des propositions d'amélioration.
+spk0: OK, alors effectivement, aujourd'hui, l'IA ne va pas vous pousser du contenu. Par contre, elle vous permet d'identifier aujourd'hui quelles sont les bonnes pratiques. Donc, par exemple, si on reprend par exemple de la démo, c'est effectivement vous dire, vous
+spk2: Oui, oui, ça, c'est bien. Après, peu importe l'outil, j'ai envie de te dire que ce soit un Hubspot ou autre. Il faut que il faut que l'équipe joue le jeu pour pour que toutes les données soient le plus
+spk1: Aujourd'hui, typiquement, tu as une FAQ où le CSM a son FAQ, le CSI a son FAQ. Bon, c'est un Google Doc, si je sais pas quel type de documents.
+spk2: les démos
+spk1: qui signent, les appels qui signent, parce que c'est vrai que ça, c'est un, on va dire que c'est l'endroit où peut-être ça a le plus de sens, parce que vous êtes capable assez vite, on peut connecter à un
+spk0: Donc, ça, ce template, effectivement, il remonte automatiquement quand un appel Ringover ou un Google Meet est lancé. Donc, pour le coup, c'est pas à ton size de dire OK, il faut que je pense à avoir mon script
+spk1: C'est smart, c'est smart.
+spk0: Cette note, elle est directement du coup liée à votre à votre CRM. Elle va revenir directement dans votre opportunité, dans votre Hubspot. Ça, c'est une note qui est du coup personnalisée et qui est du coup à l'initiative du
+spk2: Et comment il sait, excuse-moi Clémence, comment il sait, Celeste, pardon, comment il sait, quelle note il faut enregistrer ou pas?
+spk1: C'est l'IA ça en tout.
+spk0: C'est l'IA, c'est en fait aujourd'hui ils ont capté sur 35 minutes de call. Ils ont capté énormément d'informations. Ils ont fait un et l'IA a fait un résumé de une synthèse de ce call avec les next steps, les
+spk2: Ça, c'est vraiment bien.
+spk0: Du coup, ça vient vraiment forcer du coup l'aspect productivité. Ça, c'est une de vos peines.
+spk1: C'est bon, Celeste, t'es revenue dans le game.
+spk0: Non, mais je suis un peu frustré pour le truc d'avant parce que si tu me dis que ça ne fait pas gagner du temps, vu qu'on vend cet outil pour ça, il y a un vrai sujet. Je regarderai
+spk2: C'est fort. Et donc la troisième étape, c'est de remplacer le commercial haha.
+spk0: C'est ça? Non, alors ça, concrètement, on veut juste faire gagner du temps aujourd'hui au manager ou au commerciaux. Au commerciaux, grâce à de la prise de notes, grâce à de la
+spk1: D'accord. Il va avoir une gâtégeance artificielle qui fait les ventes, c'est bon.
+spk0: Et bien, écoutez, pour l'instant, ce n'est pas dans la roadmap, mais je peux venir taguer mon équipe produit pour qu'il réfléchisse à ça.
+spk1: Tu peux analyser les réponses et les objections, créer un script et en avant et là, franchement.
+spk2: Non, mais je dis ça en déconnant, mais je suis persuadé que dans un an, ça le fait en tout cas pour des appels, des appels à froid basé sur des scripts de commerciaux présents qui donnent ça à manger
+spk1: On se pense enregistrer ta voix, c'est ta voix qui sera utilisée pour ces appels.
+spk2: Moi, je viens.
+spk0: Ah bon? Écoutez, c'est la première fois qu'on me dit pas c'est trop aigu et c'est pas agréable. C'est sympa de me le dire au bout de 59 minutes.
+spk1: Et tout ça pour combien?
+spk0: Et tout ça pour combien? Et bah du coup, vous avez juste avant de partir du business model. Qu'est ce que vous en avez pensé? Parce que je vous ai donné quand même pas mal d'informations là. Je suis un
+spk1: T'es bien rattrapé Celeste, t'es bien rattrapé.
+spk0: Merci pour ton soutien.
+spk1: Je ne sais pas pourquoi on discute, mais c'est quoi le budget?
+spk0: Ok, donc on parle du budget avant même de parler de VA.
+spk1: De quoi?
+spk0: De valeur. Non, mais je voudrais juste savoir en termes de valeur. Aujourd'hui, si c'est 0 euros ou même 10 balles, est ce que tu le prendrais cet outil? Est ce que tu penses que ça répond à tes peines?
+spk2: Non. Juste pour compléter ce que dit, moi je trouve que c'est un outil qui manque et fort, d'autant plus avec les features dont tu nous as parlé juste avant là, et qui je pense va évoluer encore. Donc
+spk0: Ok. En termes de user, du coup, on parlait de quoi?
+spk2: Vous m'avez dit 4, 5, 6, 7, 5, 6, 7. On mettrai que l'essai pour le moment. Donc c'est 3, 4 personnes. 4 personnes, Merlin en écoute, en analyse en manager.
+spk0: Sachant qu'Merlin, aujourd'hui, je crois que tu fais des calls. Tu me disais que tu poussais encore. Donc tu imagines que tes pratiques commerciales, elles sont quand même, c'est censé être des références pour les nouveaux arrivants et les alternants.
+spk1: Donc typiquement, j'appelle avec mon téléphone. J'appelle avec une ligne classique.
+spk0: Tu n'appelles pas avec du coup un Hubspot ou un Ringover?
+spk1: Non. Mais bon, je pourrais. Mais c'est vrai que tu vois, on a fait un challenge prospection hier et en fait, on s'aperçoit que j'ai un taux de réponse qui est vachement plus élevé que moi. Je tourne à 70%
+spk0: Et parce que RingGover, ils sont sur un 0?
+spk1: Non, ils sont sur un 0755. Mais il paraît qu'aujourd'hui, les 0755 et 0765, ils sont identifiés comme ça.
+spk0: OK. Eh ben écoute, c'est la première fois que j'entends ça.
+spk1: Bah écoute, tu vois, on l'a vu hier, les pauvres, ils étaient frustrés. Du coup, ils ont perdu le challenge.
+spk0: Mais c'est pas sympa. Ça, c'est toi qui a gagné le resto. OK. Oui, bon, du coup, pour revenir. Pour revenir au sujet, du coup, ça sera entre 4 et 5 licences, enfin, ou 4 licences.
+spk2: Si le manager est compris dedans, ça serait 5.
+spk0: OK. Mais du coup, toute la partie, donc ça serait que sur la partie call, pas du tout sur la partie vidéo.
+spk2: Alors la partie vidéo, elle est faite plus par les CSM. Donc dans un deuxième temps, parce que ça, c'est pas aujourd'hui, c'est pas le gros du sujet.
+spk0: Bah du coup, sur la partie aujourd'hui, du coup, notre business model. Du coup, notre business model, c'est à la licence enregistreuse. Donc, c'est toutes les personnes qui importent de la matière des enregistrements dans Modjo Donc là, ça serait
+spk1: Nous, on n'a pas de marge de manoeuvre. C'est toi, éventuellement, tu en as. Mais nous, on n'en a pas.
+spk0: Mais tu imagines bien que si on fait des discounts, il y a forcément des contreparties. Tu dois être meilleur sales que moi. Et du coup, j'imagine que tu as l'habitude de négocier. Du coup, les contreparties, c'est la vélocité
+spk1: Et du coup, pour les trois introductions, combien je gagne ?
+spk0: 5 %. Mais alors aujourd'hui, non, mais écoutez, aujourd'hui, là, le tout, enfin, le sujet de cet échange, c'est du coup de faire une démo et de valider aujourd'hui la valeur et de vous présenter le business model. Moi, ce
+spk2: Ouais, alors moi, je veux juste te donner une autre information. On a 18 mois pour performer. Voilà. Donc, tout budget supplémentaire qui arrive dans ces 18 mois, il faut qu'il soit justifié ou alors avoir un discount comme Hubspot
+spk0: Aujourd'hui, de toute façon, Modjo c'est pas un outil qui est mis en place parce qu'il n'y a pas de ROI. Et le ROI ne serait-ce qu'en termes de taux de conversion, si je reste juste sur le taux de
+spk2: On en a une. Oui, on en a une après de donner un montant exact. J'en serais incapable. En tout cas, c'est sûr que c'est un montant qui est vraiment minime. Je te dis avec Hubspot, on est en train
+spk0: OK. Et du coup, là, je te partageais juste.
+spk1: C'est normal de négocier Hubspot, vu ce qui nous prenne 200 euros, c'est de survoir un point. Aujourd'hui, on n'a pas de. Ce n'était pas prévu.
+spk0: Juste sur quoi tu as un doute du coup? Ce que tu m'as dit deux, trois pain, ça veut dire qu'il y en a au moins une auxquelles on n'a pas répondu.
+spk1: C'est pas que vous n'y répondez pas. C'est que, en gros, je ne sais pas si votre... Déjà, j'ai identifié des bonnes pratiques. Donc, merci. Du coup, je vais dire à mes six de faire certaines choses avec maintenant pour
+spk0: Tu as bien aimé la live note.
+spk1: Voilà, deux, trois pains. En règle générale, je perds pas le temps. Mais, mais, mais, on va voir ton offre. Et derrière, nous, on va rediscuter en interne. Mais évidemment, effectivement, du budget, il n'y en avait pas de base.
+spk0: Par mois. Oui, on y va. Là, de toute façon, là, du coup, ce que je vous disais, c'était cinq users à 99 euros. Le prix de base, c'est du coup, ça ferait un 495 de mémoire sans levier d'action.
+spk1: Voilà, je pense que comme t'as beaucoup de levier d'action, je pense que tu vas actionner plein de leviers pour que ce soit potentiellement.
+spk0: Bah, écoutez, dans ce cas là, prenons nous un créneau parce que je sais que votre temps est compté. Et du coup, ce que je vous propose, c'est qu'on se prenne un créneau pour vous présenter l'offre.
+spk1: Au pire, tu nous refais un mail et tu nous redis ou tu nous envoies ton calendrier. On prend le calendrier.
+spk0: C'est pas plus simple de croiser nos agendas maintenant.
+spk2: Non, mais je vais gérer le troisième rendez-vous.
+spk1: Voilà, parfait. OK, super.
+spk0: Allez, ça marche. Merci à tous les trois. Je reste le Celeste juste pour finir. Oui, ça marche.
+spk2: Merci. Merci Antoine. Donc, Celeste, oui, encore une fois, outil très intéressant. J'avais une autre question au niveau du on boarding. Comment ça
+spk0: Oui, alors du coup, en termes d'onboarding, du coup, effectivement, Modjo c'est 70 80% la plateforme. Mais c'est surtout que vous avez un accompte manager, donc un consultant qui est là pour vous accompagner de la paramétrage.
+spk2: Ah c'est Gymlib.
+spk0: Voilà, donc tu vas très bien connaître. Donc tu vois, ça, c'était un de nos premiers clients. Et vraiment, encore une fois, ils n'ont pas du tout mis en place Modjo quand ils étaient Gymlib de maintenant. Ils sont
+spk2: OK, OK, OK.
+spk0: J'ai bien répondu à ta question.
+spk2: J'avais saisi effectivement ça. Et sur les évolutions du produit, est-ce qu'on reste sur le même prix ou est-ce qu'on va être bloqué? Si
+spk0: Non, effectivement, il y a absolument ce qui est signé restera signé. Ce que je veux dire, c'est que c'est notamment la fonctionnalité dont je t'ai parlé. Tu vas en bénéficier. On n'a pas de coût supplémentaire en fonction des
+spk2: Parce que je te dis ça parce que Intercom, par exemple, qui est un excellent outil, il sort des fonctionnalités régulièrement et il y en a qui ne font pas partie du scope. C'est des modules en fait additionnels. C'est
+spk0: OK, effectivement, après, tu vois, sur la partie productivité, notes. Aujourd'hui, du coup, c'est l'IA qui fait tout. Et donc, pour le coup, ça remonte directement dans ton Hubspot. Donc, en fait, de toute façon, les calls, ils sont enregistrés.
+spk2: Oui.
+spk0: Qu'est ce que tu penses? Moi, j'ai un créneau demain si tu veux ou autrement lundi.
+spk2: Lundi, ce sera mieux. Lundi, lundi, lundi.
+spk1: Qu'est ce que c'est?
+spk2: Lundi 16h30.
+spk0: Eh ben parfait. Lundi 16h30. On fait ça. Je t'envoie un peu. Je t'envoie l'invit du coup. Que on sera tous les deux, c'est ça? Oui. OK, très bien. Eh ben écoute, je t'envoie l'invitation et on en discute
